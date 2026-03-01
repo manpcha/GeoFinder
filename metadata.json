@@ -1,0 +1,5 @@
+{
+  "name": "GeoFinder",
+  "description": "관광지 및 유명 구조물의 명칭을 검색하여 위도와 경도 좌표를 찾고 관리하는 도구입니다.",
+  "requestFramePermissions": []
+}
